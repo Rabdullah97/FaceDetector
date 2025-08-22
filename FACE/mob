@@ -1,0 +1,21 @@
+{
+  "name": "Emotion Detection App",
+  "short_name": "Emotion App",
+  "description": "Analyze real-time emotions using Face++ API.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000",
+  "theme_color": "#FFD253",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
