@@ -133,13 +133,12 @@
   </div>
 
   <script>
-    const apiKey = "XPp97iHPBY7dtpmCQwRzYA-rHn9N_p8N"; 
-    const apiSecret = "-iA0p5Iym6179UIrigIdVyCFZVSdeR97"; 
-    const apiUrl = "https://api-us.faceplusplus.com/facepp/v3/detect";
-
-    const video = document.getElementById("video");
-    const canvas = document.getElementById("canvas");
+   const apiUrl = "https://facepp-proxy.rrabdullah97.workers.dev/";
+ 
+    const video   = document.getElementById("video");
+    const canvas  = document.getElementById("canvas");
     const context = canvas.getContext("2d");
+
 
     navigator.mediaDevices.getUserMedia({ video: true })
       .then((stream) => {
