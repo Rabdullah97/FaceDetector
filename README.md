@@ -45,30 +45,13 @@ Examples of emotion recognition demonstrating different prediction results.
 
 ## Running Locally
 
-Clone the repository:
-
-```bash
-git clone https://github.com/Rabdullah97/FaceDetector.git
-cd FaceDetector
-```
-
-Run a local server:
-
-```bash
-# Python
-python -m http.server 8000
-
-# or Node.js
-npx serve .
-```
+`
 
 Open:
 
 ```
-http://localhost:8000
+rabdullah97.github.io/FaceDetector/
 ```
-
-Allow browser access if prompted.
 
 ---
 
