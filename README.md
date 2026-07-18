@@ -11,8 +11,8 @@ Developed for the **AI & Robot Club** at **Imam Abdulrahman Bin Faisal Universit
 ## Demo
 
 <p align="center">
-  <img src="docs/happy.png" alt="Happy Emotion" width="47%"/>
-  <img src="docs/sad.png" alt="Sad Emotion" width="47%"/>
+  <img src="docs/happy.png" alt="Happy Emotion Detection" width="47%"/>
+  <img src="docs/sad.png" alt="Sad Emotion Detection" width="47%"/>
 </p>
 
 <p align="center">
