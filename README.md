@@ -45,8 +45,6 @@ Examples of emotion recognition demonstrating different prediction results.
 
 ## Running Locally
 
-`
-
 Open:
 
 ```
@@ -64,24 +62,6 @@ rabdullah97.github.io/FaceDetector/
 - Surprise
 - Disgust
 - Neutral
-
----
-
-## Project Structure
-
-```
-FaceDetector/
-│
-├── docs/
-│   ├── happy-demo.png
-│   └── sad-demo.png
-│
-├── index.html
-├── style.css
-├── script.js
-├── models/
-└── README.md
-```
 
 ---
 
