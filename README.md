@@ -39,7 +39,6 @@ Examples of emotion recognition demonstrating different prediction results.
 | Programming | JavaScript |
 | AI Model | DeepFace |
 | Image Processing | OpenCV |
-| Machine Learning | TensorFlow / Keras |
 
 ---
 
